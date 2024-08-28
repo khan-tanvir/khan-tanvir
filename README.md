@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
+</div>
 
-<!--
-**khan-tanvir/khan-tanvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <h1 align="center">Hi there! 👋 I'm Tanvir Khan</h1>
 
-Here are some ideas to get you started:
+<h2 align="center">💻 Software Developer | 🎮 Game Engine and Graphics Programming Enthusiast 🖼️</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">️ About me:</h2>
+
+<p align="left">
+🎓 Pursuing a Master's degree in Graphics Programming and High-Performance Computing<br><br>
+💼 Developing and maintaining web and mobile applications<br><br>
+🚀 <strong>Current Projects:</strong><br>
+• Creating a cross-platform renderer<br>
+• Adding custom songs to Rocksmith 2014 🎸<br><br>
+🔮 <strong>Portfolio </strong>coming soon!<br><br>
+✨ <strong>Let's connect!</strong> Feel free to reach out for discussions, collaborations, or to explore potential projects.
+</p>
+
+## 🛠 Languages, Tools & Software
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+</div>
+
+## 🔥 My Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=khan-tanvir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-khan791/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tanvirk20131)
+
