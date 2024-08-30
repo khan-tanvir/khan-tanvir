@@ -1,6 +1,4 @@
-
-
-<h2 align="center">Hi there! 👋 I'm Tanvir Khan <br><br>💻 Software Developer | 🎮 Game Engine and Graphics Programming Enthusiast 🖼️</h2>
+<h2 align="center">Hi there! 👋 I'm Tanvir Khan <br><br>🎮 Game Engine and Graphics Programming Enthusiast 🖼️ | 💻 Software Developer</h2>
 
 <h2 align="left">️ About me:</h2>
 
