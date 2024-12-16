@@ -1,7 +1,5 @@
 <h2 align="center">Hi there! 👋 I'm Tanvir Khan <br><br>🎮 Game Engine and Graphics Programming Enthusiast 🖼️ | 💻 Software Developer</h2>
 
-<h2 align="left">️ About me:</h2>
-
 <p align="left">
 🎓 Pursuing a Master's degree in Graphics Programming and High-Performance Computing<br><br>
 💼 Developing and maintaining web and mobile applications<br><br>
@@ -38,8 +36,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-khan791/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tanvirk20131)
-
-##
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=khan-tanvir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
